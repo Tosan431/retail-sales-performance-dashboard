@@ -1,3 +1,6 @@
+## Project File Structure
+
+```text
 retail-sales-performance-dashboard/
 │
 ├── Retail_Sales_Dashboard.pbix
