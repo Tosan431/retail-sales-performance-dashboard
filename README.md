@@ -17,7 +17,7 @@ The dashboard was designed to provide business stakeholders with actionable insi
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 ---
 
